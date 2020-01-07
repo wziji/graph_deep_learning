@@ -1,7 +1,7 @@
-train_seq_data=data/deepwalk_seq
-output_item_vec_data=data/item_vec
+train_seq_data=data/deepwalk_seq.txt
+output_item_vec_data=data/item_vec.txt
 
-word2vec_model='data/word2vec' # c versioin word2vec
+word2vec_model='word2vec' # c versioin word2vec
 size=32
 window=8
 iter=20
